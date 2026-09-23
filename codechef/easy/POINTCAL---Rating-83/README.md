@@ -59,7 +59,7 @@ Your team drew $1$ game and lost the others, thus $1$ point.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-23T13:58:56.750Z  
+**Submitted:** 2026-09-23T13:58:54.971Z  
 
 ```java
 import java.util.*;
