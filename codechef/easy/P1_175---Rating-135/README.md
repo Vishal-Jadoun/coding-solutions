@@ -81,7 +81,7 @@ You have $2$ days to complete the assignment, but it will take you $3$ days to f
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-23T14:10:42.255Z  
+**Submitted:** 2026-09-23T14:11:28.487Z  
 
 ```java
 import java.util.*;
@@ -97,7 +97,7 @@ class Codechef
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 		
-		if(a<b){
+		if(a<=b){
 		    System.out.println("YES");
 		} else System.out.println("NO");
 
